@@ -1,6 +1,7 @@
 import {CityType} from "../02/02.2";
 import {addMoneyToBudget, doesStudentLiveIn, repairHouse, toFireStaff, toHireStaff} from "./03";
 import {demoLishHousesOnTheStreet} from "../04/04city";
+import {getStreetsTitlesOfGovernmentsBuildings} from "../05/05.02";
 
 
 let city: CityType;
